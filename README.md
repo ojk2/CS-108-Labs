@@ -1,5 +1,6 @@
 # My work for CS-108, an Introduction to Programming.
 
+This repository is for archival purposes of my work for this course.
 
 To-Do:
 * Fix turtle_star.py
