@@ -7,4 +7,5 @@ To-Do:
 * Learn how to use github
 
 
-Filenames beginning with _ are my own second attempts for deep comprehension purposes.
+Filenames beginning with _ are my own second attempts to reimplement
+in other ways that I can think of.
