@@ -15,6 +15,8 @@ student_id = input("Student ID: ")
 
 # combine all objects into one string, slicing them into shape
 user_id = f"{first_name[0]}{last_name}{student_id[0]}{student_id[1]}"
+# change every capital letter into lowercase
+user_id = user_id.lower()
 
 print(f"User ID: {user_id}")
 
