@@ -3,7 +3,7 @@
 This repository is for archival purposes of my work for this course.
 
 To-Do:
-* Fix turtle_star.py
+* Fix turtle_star.py, zelle.py
 * Learn how to use github
 
 
