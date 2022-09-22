@@ -8,9 +8,12 @@ outputs.
 @date: Fall, 2022
 """
 
-# Put your solution code here, replacing this line.
+# take the input as string
 s = input("service: ")
 
+# all conditions are in string form
+
+# branches to test if input is equal to the set services
 if s == 'oil change':
     x = 35
     print(f"cost of {s}: ${x}")
@@ -20,5 +23,12 @@ elif s == 'tire rotation':
 elif s == 'car wash':
     x = 7
     print(f"cost of {s}: ${x}")
+# if input failed all tests, then error
 else:
     print(f"error: {s} is not recognized")
+
+'''
+i originally wanted to have a single variable and a single
+print statement to print the variable at the end for the end result
+but it led to bugs.
+'''
