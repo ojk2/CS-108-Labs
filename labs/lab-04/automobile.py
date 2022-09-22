@@ -13,11 +13,12 @@ s = input("service: ")
 
 if s == 'oil change':
     x = 35
+    print(f"cost of {s}: {x}")
 elif s == 'tire rotation':
     x = 19
+    print(f"cost of {s}: {x}")
 elif s == 'car wash':
     x = 7
+    print(f"cost of {s}: {x}")
 else:
     print(f"error: {s} is not recognized")
-
-print(f"cost of {s}: ${x}")
