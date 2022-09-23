@@ -9,4 +9,3 @@ print("Now enter a short description for the program.")
 
 while True:
   input()
-  
