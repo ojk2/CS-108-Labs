@@ -1,4 +1,4 @@
-"""CS 108 Lab 10.2
+"""CS 108 Lab 10.1
 
 This driver uses the Employee class to compute and save corporate statistics.
 
